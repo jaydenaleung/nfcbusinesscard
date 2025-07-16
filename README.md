@@ -3,6 +3,10 @@
 This is my custom electronic business card with an NFC tag for easy contact information sharing.
 -
 
+<img height="450" alt="Screenshot 2025-07-16 031243" src="https://github.com/user-attachments/assets/e1a09740-0ec3-4847-88c8-2a3102d26e5f" />
+<img height="450" alt="Screenshot 2025-07-16 031257" src="https://github.com/user-attachments/assets/49d6e19b-876e-4b44-b701-7d055f86a698" />
+<img height="450" alt="Screenshot 2025-07-16 031305" src="https://github.com/user-attachments/assets/2772f20e-8c39-48d5-a1c0-28bcd1b076ca" />
+
 
 # Figures
 
@@ -24,9 +28,9 @@ PCB
 
 This entire NFC business card is made on one assembled PCB board with an appropriate schematic. I was hoping to have the LED on the front of the PCB, where all the aesthetic design is, but due to costs, this may change.
 
-SCHEMATIC
+<img width="464" height="412" alt="Screenshot 2025-07-16 031232" src="https://github.com/user-attachments/assets/2e6c465c-5053-47ed-8a8f-5f8b4bd4cf4d" />
 
-PCB
+<img width="780" height="487" alt="Screenshot 2025-07-16 031227" src="https://github.com/user-attachments/assets/35453428-ca4f-4009-abbb-9e9953806418" />
 
 
 # The 'Why' Behind the Project
