@@ -1,0 +1,6 @@
+Quantity,Part,Price Per Part,Notes
+2,PCB,N/A,5-pack; price handled by JLCPCB coupon; doubling this (quantity 2) means doubling everything else
+10,220uF Capacitor,N/A,Price too small; negligible
+10,NT3H2111W0FHKH NFC,0.88,
+10,Red LED0402,N/A,Price too small; negligible
+10,47Ω Resistor0402,N/A,Price too small; negligible
