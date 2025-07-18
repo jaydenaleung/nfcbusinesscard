@@ -6,7 +6,7 @@ created_at: "2025-07-11"
 ---
 
 # Time Spent
-- **Total hours: 5h**
+- **Total hours: 6h**
 
 # July 11th: PCB Design
 
@@ -31,7 +31,7 @@ I finished my project after Undercity by generating the gerber files and wrappin
 <img width="773" height="1003" alt="Screenshot 2025-07-16 035410" src="https://github.com/user-attachments/assets/065a5868-1843-4245-82f1-23fffe70439d" />
 <img width="2148" height="675" alt="Screenshot 2025-07-16 040807" src="https://github.com/user-attachments/assets/dbb316b8-3047-44b6-9cfd-a2051e3b9d52" />
 
-Why is JLCPCB randomly making only some of my parts 4x quantity 😭
+Why is JLCPCB randomly making only some of my parts 4x quantity...
 
 Final product images:
 <img width="1153" height="805" alt="Screenshot 2025-07-16 031257" src="https://github.com/user-attachments/assets/54a7fedb-91e5-4154-885c-08130e51e820" />
@@ -39,3 +39,10 @@ Final product images:
 
 
 **Total time spent: 2h**
+
+
+# July 17th: Another Shot at PCBA
+
+After talking to a few people on Slack, I realized I could significantly reduce the cost of my PCB by using economic PCBA for only assembling one side. Thus, I moved my LED to the back side. I reuploaded the new gerbers, BOM, and CPL, and chose LeadFree HASL for long-term safety and health. I didn't need the solderability from leaded HASL, as I assumed PCBA would solder it perfectly for me anyway. This time, the new cost from economic PCBA and lead-free HASL came about to be about $26 for 5 assembled PCBs, meaning about $5 per card.
+
+**Total time spent: 1h**
