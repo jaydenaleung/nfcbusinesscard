@@ -6,7 +6,7 @@ created_at: "2025-07-11"
 ---
 
 # Time Spent
-- **Total hours: 6h**
+- **Total hours: 7h**
 
 # July 11th: PCB Design
 
@@ -44,5 +44,14 @@ Final product images:
 # July 17th: Another Shot at PCBA
 
 After talking to a few people on Slack, I realized I could significantly reduce the cost of my PCB by using economic PCBA for only assembling one side. Thus, I moved my LED to the back side. I reuploaded the new gerbers, BOM, and CPL, and chose LeadFree HASL for long-term safety and health. I didn't need the solderability from leaded HASL, as I assumed PCBA would solder it perfectly for me anyway. This time, the new cost from economic PCBA and lead-free HASL came about to be about $26 for 5 assembled PCBs, meaning about $5 per card.
+
+**Total time spent: 1h**
+
+
+# July 17th: Firmware
+
+After placing an order for the PCB, I realized I hadn't written the firmware yet. There is no official code file to flash to NFC tags, but I used the NFC Tools app to write data to it. See https://jams.hackclub.com/jam/hacker-card for more instructions on doing so. I wrote the instructions in a FIRMWARE.md file.
+
+I uploaded a vCard to the NFC with all of my contact information using https://www.vcard.link. Then, I downloaded the .vcf file and hosted it on my personal Vercel website (which I also set up and learned how to use while I was making my vCard!). The link to it can be found here: https://jayden-leung.vercel.app/jaydenleung-contact.vcf. On iPhones, recieving this link through an NFC tag will automatically allow my contact card to pop up. It was really cool!
 
 **Total time spent: 1h**
