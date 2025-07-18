@@ -1,6 +1,6 @@
 # Jayden's NFC Business Card
 
-This is my custom electronic business card with an NFC tag for easy contact information sharing.
+This is my custom electronic business card with an NFC tag for easy contact information sharing. With a sleek design, the card makes networking and contact info sharing much easier.
 -
 
 <img height="450" alt="Screenshot 2025-07-16 031243" src="https://github.com/user-attachments/assets/e1a09740-0ec3-4847-88c8-2a3102d26e5f" />
