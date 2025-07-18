@@ -1,6 +1,9 @@
-Quantity,Part,Price Per Part,Notes
-2,PCB,N/A,5-pack; price handled by JLCPCB coupon; doubling this (quantity 2) means doubling everything else
-10,220uF Capacitor,N/A,Price too small; negligible
-10,NT3H2111W0FHKH NFC,0.88,
-10,Red LED0402,N/A,Price too small; negligible
-10,47Ω Resistor0402,N/A,Price too small; negligible
+Quantity,Part,Price Per Part,Notes,Link
+1,PCB,$26.25,5-pack; price handled by JLCPCB coupon. ~$1 per PCB and ~$4 per PCB assembly,See EasyEDA PCB file.
+5,220uF Capacitor,N/A,Price too small; negligible,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10B224KA8NNNC_C21120.html?s_z=n_C21120
+5,NT3H2111W0FHKH NFC,0.88,,https://lcsc.com/product-detail/RFID-ICs_NXP-NT3H2111W0FHKH_C710403.html?s_z=n_C710403
+5,Red LED0402,N/A,Price too small; negligible,https://lcsc.com/product-detail/LED-Indication-Discrete_EVERLIGHT-16-213SDRC-S530-A3-TR8_C71911.html?s_z=n_C71911
+5,47Ω Resistor0402,N/A,Price too small; negligible,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0603WAF470JT5E_C23182.html?s_z=n_C23182
+Subtotal,$26.25,,,
+Shipping,$9.19,,,
+Total,$35.44,,,
