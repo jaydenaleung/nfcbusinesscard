@@ -10,11 +10,11 @@ This is my custom electronic business card with an NFC tag for easy contact info
 
 # Figures
 
-**Total Minimum Cost:** $3 USD/card
+**Total Minimum Cost:** ~$5 USD/card
 
-**Total Hours Spent:** 5 hrs
+**Total Hours Spent:** 6 hrs
 
-**Total Days Spent:** 2 days
+**Total Days Spent:** 3 days
 
 *See JOURNAL.md and the BOM below for an in-depth explanation of these numbers.*
 
