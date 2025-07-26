@@ -3,9 +3,9 @@
 This is my custom electronic business card with an NFC tag for easy contact information sharing. With a sleek design, the card makes networking and contact info sharing much easier.
 -
 
-<img height="450" alt="Screenshot 2025-07-16 031243" src="https://github.com/user-attachments/assets/e1a09740-0ec3-4847-88c8-2a3102d26e5f" />
-<img height="450" alt="Screenshot 2025-07-16 031257" src="https://github.com/user-attachments/assets/49d6e19b-876e-4b44-b701-7d055f86a698" />
-<img height="450" alt="Screenshot 2025-07-16 031305" src="https://github.com/user-attachments/assets/2772f20e-8c39-48d5-a1c0-28bcd1b076ca" />
+
+<img width="1357" height="978" alt="Screenshot 2025-07-25 at 11 16 45 PM" src="https://github.com/user-attachments/assets/7f3b35dc-5eea-436c-be9d-1b9c62645e7c" />
+<img width="1311" height="1008" alt="Screenshot 2025-07-25 at 11 16 51 PM" src="https://github.com/user-attachments/assets/0224fb2a-ca07-42db-8692-aa5b937d2654" />
 
 
 # Figures
@@ -32,7 +32,7 @@ The entire back is my custom art!! So is the 'holo' logo on the front. Holo is a
 
 <img width="464" height="412" alt="Screenshot 2025-07-16 031232" src="https://github.com/user-attachments/assets/2e6c465c-5053-47ed-8a8f-5f8b4bd4cf4d" />
 
-<img width="780" height="487" alt="Screenshot 2025-07-16 031227" src="https://github.com/user-attachments/assets/35453428-ca4f-4009-abbb-9e9953806418" />
+<img width="1049" height="668" alt="Screenshot 2025-07-25 at 11 16 28 PM" src="https://github.com/user-attachments/assets/27c6e2d0-5bcc-4fce-9a3c-5d72d5550b45" />
 
 
 # The 'Why' Behind the Project
