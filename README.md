@@ -12,9 +12,9 @@ This is my custom electronic business card with an NFC tag for easy contact info
 
 **Total Minimum Cost:** ~$5 USD/card
 
-**Total Hours Spent:** 7 hrs
+**Total Hours Spent:** 9 hrs
 
-**Total Days Spent:** 3 days
+**Total Days Spent:** 4 days
 
 *See JOURNAL.md and the BOM below for an in-depth explanation of these numbers.*
 
@@ -26,7 +26,9 @@ This NFC business card (or 'hacker card' as it was made through Hack Club's High
 PCB
 -
 
-This entire NFC business card is made on one assembled PCB board with an appropriate schematic. I was hoping to have the LED on the front of the PCB, where all the aesthetic design is, but due to costs, this may change.
+This entire NFC business card is made on one assembled PCB board with an appropriate schematic. I was hoping to have the LED on the front of the PCB, where all the aesthetic design is, but due to costs, it's just on the back now.
+
+The entire back is my custom art!! So is the 'holo' logo on the front. Holo is an upcoming company I hope to launch, and this card will be useful for quick networking.
 
 <img width="464" height="412" alt="Screenshot 2025-07-16 031232" src="https://github.com/user-attachments/assets/2e6c465c-5053-47ed-8a8f-5f8b4bd4cf4d" />
 
@@ -42,11 +44,11 @@ I first knew about hacker cards due to the rise in popularity of them from the H
 
 | Quantity | Part               | Price Per Part | Notes                                                                        | Link                                                                                                                                          |
 |----------|--------------------|----------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| 1        | PCB                | $26.25         | 5-pack; price handled by JLCPCB coupon. ~$1 per PCB and ~$4 per PCB assembly | See EasyEDA PCB file.                                                                                                                         |
+| 1        | PCB                | $24.25         | 5-pack; price handled by JLCPCB coupon. ~$1 per PCB and ~$4 per PCB assembly | See EasyEDA PCB file.                                                                                                                         |
 | 5        | 220uF Capacitor    | N/A            | Price too small; negligible                                                  | https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10B224KA8NNNC_C21120.html?s_z=n_C21120 |
 | 5        | NT3H2111W0FHKH NFC | 0.88           |                                                                              | https://lcsc.com/product-detail/RFID-ICs_NXP-NT3H2111W0FHKH_C710403.html?s_z=n_C710403                                                        |
 | 5        | Red LED0402        | N/A            | Price too small; negligible                                                  | https://lcsc.com/product-detail/LED-Indication-Discrete_EVERLIGHT-16-213SDRC-S530-A3-TR8_C71911.html?s_z=n_C71911                             |
 | 5        | 47Ω Resistor0402   | N/A            | Price too small; negligible                                                  | https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-0603WAF470JT5E_C23182.html?s_z=n_C23182                                 |
-| Subtotal | $26.25             |                |                                                                              |                                                                                                                                               |
-| Shipping | $9.19              |                |                                                                              |                                                                                                                                               |
-| Total    | $35.44             |                |                                                                              |                                                                                                                                               |
+| Subtotal | $24.25             |                |                                                                              |                                                                                                                                               |
+| Shipping & Fees | $11.23              |                |                                                                              |                                                                                                                                               |
+| Total    | $35.48             |                |                                                                              |                                                                                                                                               |
