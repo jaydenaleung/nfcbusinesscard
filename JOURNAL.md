@@ -6,7 +6,7 @@ created_at: "2025-07-11"
 ---
 
 # Time Spent
-- **Total hours: 7h**
+- **Total hours: 9h**
 
 # July 11th: PCB Design
 
@@ -55,3 +55,18 @@ After placing an order for the PCB, I realized I hadn't written the firmware yet
 I uploaded a vCard to the NFC with all of my contact information using https://www.vcard.link. Then, I downloaded the .vcf file and hosted it on my personal Vercel website (which I also set up and learned how to use while I was making my vCard!). The link to it can be found here: https://jayden-leung.vercel.app/jaydenleung-contact.vcf. On iPhones, recieving this link through an NFC tag will automatically allow my contact card to pop up. It was really cool!
 
 **Total time spent: 1h**
+
+
+# July 25th: Custom Artwork
+
+My submission got declined in #highway-pitstop on the Hack Club Slack since it didn't have custom artwork. Although I didn't know that was a requirement for hacker cards, it was a good experience to learn how to adapt to these types of situations as I'd never been rejected before. Nevertheless, I had some fun drawing up my projects on my Kindle Scribe then sending them to import into EasyEDA and onto the silkscreen of the PCB. I made all the artwork on the back of the PCB, and the 'holo' logo on the front is made using Canva too!! Holo is a future company I hope to begin. Hopefully this hacker card will come in handy then with networking! See below for pictures:
+
+<img width="1357" height="978" alt="Screenshot 2025-07-25 at 11 16 45 PM" src="https://github.com/user-attachments/assets/1ca439f5-4546-4322-bc44-04f5b785dcbb" />
+<img width="1311" height="1008" alt="Screenshot 2025-07-25 at 11 16 51 PM" src="https://github.com/user-attachments/assets/ded09648-8a72-40b8-bbc6-423ef18d1c67" />
+<img width="1500" height="1500" alt="nfcbusinesscard holo full logo" src="https://github.com/user-attachments/assets/049a7e02-67e7-45d7-b3f5-e3f683e820c4" />
+<img width="1500" height="1500" alt="astrotrackerh1" src="https://github.com/user-attachments/assets/c3157237-7158-46ca-8a17-3a84fed50229" />
+<img width="1500" height="1500" alt="portcullis" src="https://github.com/user-attachments/assets/7794d04a-d498-4c29-9ac9-070b4e2868bd" />
+<img width="500" height="500" alt="holo" src="https://github.com/user-attachments/assets/883377bb-f393-446c-bcbb-8e2d9d4b7219" />
+
+
+**Total time spent: 2h**
